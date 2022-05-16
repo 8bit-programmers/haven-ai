@@ -1,2 +1,2 @@
 # first-project
-Project with Martin Kirov
+Project with Adam Brass and Martin Kirov
